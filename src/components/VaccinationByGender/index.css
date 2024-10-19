@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.pie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pie-chart {
+  display: flex;
+}
